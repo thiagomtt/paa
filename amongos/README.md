@@ -15,7 +15,7 @@
 > **V** por meio de um corredor com comprimento ​**D**. Os indicadores de vértices são
 > números inteiros, enquanto o valor de distância pertence aos reais e é apresentado
 > com uma casa decimal. A seguir, são apresentados ​**2\*N** números inteiros,
-> representando os pares ​**(U, V)**, ​**(0≤U, V<M)**, que descrevem o fato de haver uma ligação entre as salas ​**U** e **V** por meio de tubos de ventilação, com distância 1 entre
+> representando os pares ​**(U, V), ​(0≤U, V<M)**, que descrevem o fato de haver uma ligação entre as salas ​**U** e **V** por meio de tubos de ventilação, com distância 1 entre
 > elas. A partir da quarta linha, há **C** linhas de consultas. Cada uma dessas linhas é
 > composta por um inteiro, representando a sala onde você viu o impostor.
 
