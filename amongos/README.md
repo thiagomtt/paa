@@ -3,7 +3,7 @@
 -	Descrição detalhada no arquivo pdf. 
 
 -	Feito primeiramente em *Python* porém com tempo de execução entre \~0.8sec retornando erro (timeout) nos casos de teste do [RunCodes](https://run.codes/) (plataforma escolhida pelo professor). 
-	Então foi reescrito em *C++* para obter sucesso nos casos de teste da plataforma. 
+	Então foi reescrito em *C++* para obter sucesso na plataforma. 
 
 **Entrada**
 
