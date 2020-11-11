@@ -1,5 +1,7 @@
 # Em Trenós
 
+*	Descrição detalhada no arquivo pdf. 
+
 **Entrada**
 
 > A entrada apresenta um único grafo conexo, a descrição das tubulações e várias
