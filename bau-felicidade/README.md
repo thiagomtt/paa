@@ -4,7 +4,7 @@
 
 **Entrada**
 
-> A entrada contém um único caso de teste. A primeira linha indica o número **N (2≤ N ≤ 100)** de moedas encontradas. As próximas ​N linhas contêm o peso **W<sub>i</sub>sub>(1≤W<sub>i</sub>≤500)** de cada moeda.
+> A entrada contém um único caso de teste. A primeira linha indica o número **N (2≤ N ≤ 100)** de moedas encontradas. As próximas ​N linhas contêm o peso **W<sub>i</sub>(1≤W<sub>i</sub>≤500)** de cada moeda.
 > Todos os valores de entrada são inteiros.
 
 **Saída**
