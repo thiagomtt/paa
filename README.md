@@ -1,6 +1,6 @@
 # Projetos de Projeto e Análise de Algoritmos - 2020/1
 
-### Breve descrição de cada projeto
+### Descrição de cada projeto
 
 *	Amongos - Implementação para determinar caminho mínimo em um grafo ponderado e não-direcionado que define o mapa do jogo *Among us* onde os vértices representam as salas e as arestas, os corredores entre elas.
 
